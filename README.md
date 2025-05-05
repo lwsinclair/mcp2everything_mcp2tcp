@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-mcp2everything-mcp2tcp-badge.png)](https://mseep.ai/app/mcp-mirror-mcp2everything-mcp2tcp)
+
 # mcp2tcp: 连接物理世界与AI大模型的桥梁 
 
 [English](README_EN.md) | 简体中文
